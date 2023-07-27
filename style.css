@@ -1,0 +1,16 @@
+body {
+    background-image: url('background.gif'); 
+    background-repeat: repeat;
+    font-family: Comic Sans MS; 
+    color: #0000FF;
+  }
+  
+  .navbar {
+    text-align: center;
+    border-bottom: 2px dotted #FF00FF;
+  }
+  
+  .footer {
+    text-align: center;
+    font-size: small;
+  }
